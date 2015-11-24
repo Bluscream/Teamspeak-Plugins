@@ -1,8 +1,8 @@
 # Teamspeak-Plugins
-
-[![Join the chat at https://gitter.im/Bluscream/Teamspeak-Plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Bluscream/Teamspeak-Plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Just a list of all my plugins.
 
+### Support Chat
+[![Join the chat at https://gitter.im/Bluscream/Teamspeak-Plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Bluscream/Teamspeak-Plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ##[Extended-Info-Plugin](https://github.com/Bluscream/Extended-Info-Plugin)
 ![Latest Version](https://img.shields.io/github/release/Bluscream/Extended-Info-Plugin.svg) ![Downloads](https://img.shields.io/github/downloads/Bluscream/Extended-Info-Plugin/total.svg)

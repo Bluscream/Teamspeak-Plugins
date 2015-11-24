@@ -1,4 +1,6 @@
 # Teamspeak-Plugins
+
+[![Join the chat at https://gitter.im/Bluscream/Teamspeak-Plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Bluscream/Teamspeak-Plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Just a list of all my plugins.
 
 
